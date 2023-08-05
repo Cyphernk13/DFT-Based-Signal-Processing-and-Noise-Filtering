@@ -1,1 +1,1 @@
-# DFT-Based-Signal-Processing-and-Noise-Filtering
+An academic project in the Siganls and Systems course made by a team of four used for analysing frequencies of voice signals using Discrete Fourier Transform (DFT) and have an algorithm to filter out unwanted noises.
